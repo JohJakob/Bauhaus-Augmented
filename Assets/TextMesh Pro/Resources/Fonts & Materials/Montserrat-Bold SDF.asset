@@ -19,8 +19,8 @@ MonoBehaviour:
   m_SourceFontFileGUID: 79c0d660c61c846abbf4b3d46d7e803c
   m_SourceFontFile_EditorRef: {fileID: 12800000, guid: 79c0d660c61c846abbf4b3d46d7e803c,
     type: 3}
-  m_SourceFontFile: {fileID: 0}
-  m_AtlasPopulationMode: 0
+  m_SourceFontFile: {fileID: 12800000, guid: 79c0d660c61c846abbf4b3d46d7e803c, type: 3}
+  m_AtlasPopulationMode: 1
   m_FaceInfo:
     m_FamilyName: Montserrat
     m_StyleName: Bold
